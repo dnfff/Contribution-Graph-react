@@ -1,0 +1,19 @@
+.rightGraph {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(51, 1fr);
+    grid-template-rows: repeat(7, 1fr);
+    gap: 2px;
+    /* overflow: hidden; */
+}
+
+.rightGraph__block {
+    background-color: #EDEDED;
+    height: 15px;
+    width: 15px;
+}
+
+.rightGraph__block:hover {
+    border: 1px solid #00000050;
+}
