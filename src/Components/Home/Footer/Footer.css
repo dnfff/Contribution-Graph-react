@@ -1,0 +1,35 @@
+.footer {
+    width: 847.03px;
+    display: flex;
+    align-items: center;
+}
+
+.footer__block1 {
+    width: 15px;
+    height: 15px;
+    background-color: #EDEDED;
+    margin-left: 10px;
+}
+.footer__block2 {
+    width: 15px;
+    height: 15px;
+    background-color: #ACD5F2;
+    margin: 0 2px;
+}
+.footer__block3 {
+    width: 15px;
+    height: 15px;
+    background-color: #7FA8C9;
+}
+.footer__block4 {
+    width: 15px;
+    height: 15px;
+    background-color: #527BA0;
+    margin: 0 2px;
+}
+.footer__block5 {
+    width: 15px;
+    height: 15px;
+    background-color: #254E77;
+    margin-right: 10px;
+}

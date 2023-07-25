@@ -1,0 +1,11 @@
+.leftdata {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .leftdata__first {
+    margin-top: 0px;
+} */

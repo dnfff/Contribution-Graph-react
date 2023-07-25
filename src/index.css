@@ -2,9 +2,10 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  font-size: 8px;
 
   color-scheme: light dark;
-  color: rgba(78, 78, 78, 0.87);
+  color: #959494;
   background-color: #ffffff;
 
   font-synthesis: none;
@@ -20,6 +21,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 /* Reset and base styles  */
